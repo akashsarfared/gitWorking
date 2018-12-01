@@ -1,0 +1,29 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 62BB-8EF7
+
+ Directory of C:\Users\vshadmin
+
+01-12-2018  13:01    <DIR>          .
+01-12-2018  13:01    <DIR>          ..
+16-10-2018  10:59    <DIR>          .eclipse
+01-12-2018  12:55                62 .gitconfig
+30-11-2018  17:17    <DIR>          .jenkins
+30-11-2018  11:55    <DIR>          .m2
+01-12-2018  12:30    <DIR>          .p2
+16-10-2018  10:14    <DIR>          .tooling
+24-09-2018  15:48    <DIR>          3D Objects
+24-09-2018  15:48    <DIR>          Contacts
+01-12-2018  13:01                 0 data.txt
+30-11-2018  18:05    <DIR>          Desktop
+21-11-2018  14:40    <DIR>          Documents
+01-12-2018  12:45    <DIR>          Downloads
+24-09-2018  15:48    <DIR>          Favorites
+24-09-2018  15:48    <DIR>          Links
+24-09-2018  15:48    <DIR>          Music
+19-09-2018  17:01    <DIR>          OneDrive
+24-09-2018  16:36    <DIR>          Pictures
+24-09-2018  15:48    <DIR>          Saved Games
+24-09-2018  15:48    <DIR>          Searches
+22-10-2018  17:59    <DIR>          Videos
+               2 File(s)             62 bytes
+              20 Dir(s)  198,579,605,504 bytes free
